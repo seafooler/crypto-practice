@@ -1,4 +1,4 @@
-package myrsatoy
+package cryptoprac
 
 import (
 	"bytes"
